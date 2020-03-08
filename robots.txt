@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://waipoweyae.gn-ks24.com/sitemap.xml
